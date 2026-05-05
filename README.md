@@ -84,6 +84,6 @@ The system combines **manual control** and **automatic safety**, where the car w
 
 See `main.ino` for full implementation.
 
-## 🧑‍💻 Author
+##  Author
 
-Your Name
+@ZaniTheDev
