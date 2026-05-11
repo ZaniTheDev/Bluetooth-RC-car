@@ -91,25 +91,6 @@ This project serves as a foundation for robotics, embedded systems, and autonomo
 | R | Turn Right |
 | S | Stop |
 
----
-
-## Project Structure
-
-```bash
-.
-├── main.ino
-└── README.md
-```
-
----
-
-## Source Code
-
-The main implementation is located in:
-
-```bash
-main.ino
-```
 
 ---
 
